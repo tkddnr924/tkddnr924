@@ -5,7 +5,7 @@
 - Django
 
 ## Interest
-- Every thing
+- Digital Forensic
 
 
 <strong>HITS</strong> (https://hits.seeyoufarm.com/)
