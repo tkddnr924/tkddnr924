@@ -5,9 +5,7 @@
 ## Web
 - Vue.js
 - Django
-
-## Interest
-- Digital Forensic
+- Node.js Express
 
 
 <strong>HITS</strong> (https://hits.seeyoufarm.com/)
